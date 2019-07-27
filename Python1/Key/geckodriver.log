@@ -1,0 +1,11 @@
+1564221109166	geckodriver	INFO	geckodriver 0.20.1
+1564221109193	geckodriver	INFO	Listening on 127.0.0.1:36066
+1564221112406	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\13764\\AppData\\Local\\Temp\\rust_mozprofile.jMxFdt24kpNW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1564221118652	Marionette	INFO	Listening on port 36075
+1564221119764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1564221139807	Marionette	INFO	Ceased listening
+fierDBService.getTables]
+1564217043647	Marionette	INFO	Ceased listening
