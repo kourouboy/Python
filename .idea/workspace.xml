@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66c7fc3d-5c55-4dde-bd00-1bc363d0751a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python1/Key/test3.py" afterDir="false" />
-    </list>
+    <list default="true" id="66c7fc3d-5c55-4dde-bd00-1bc363d0751a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +101,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="858" />
     <option name="y" value="9" />
     <option name="width" value="1065" />
@@ -152,7 +150,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -282,7 +280,7 @@
       <workItem from="1564277228067" duration="11799000" />
       <workItem from="1564314728783" duration="606000" />
       <workItem from="1564320871413" duration="95000" />
-      <workItem from="1566057431351" duration="141000" />
+      <workItem from="1566057431351" duration="366000" />
     </task>
     <servers />
   </component>
@@ -319,11 +317,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33348000" />
+    <option name="totallyTimeSpent" value="33573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38237673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
